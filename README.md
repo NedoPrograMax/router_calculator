@@ -1,16 +1,9 @@
-# router
+# Router calculator
 
-A new Flutter project.
+This app helps you to buy count shortest distance in a table with obstacles
 
-## Getting Started
+<img src="https://github.com/NedoPrograMax/router_calculator/blob/master/video_2024-03-08_22-45-38.gif" width="200">
 
-This project is a starting point for a Flutter application.
+So I'm hoping you're gonna love it)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
